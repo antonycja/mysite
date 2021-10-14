@@ -1,0 +1,40 @@
+body {
+  /*background-color: #D8E3E7;*/
+  background-color: #393E46;
+}
+
+hr {
+  border-color: #9DDAC6;
+  border-style: none;
+  border-top-style: dotted;
+  height: 0px;
+  border-width: 4px;
+  width: 20%;
+}
+
+p {
+  color: lightgrey;
+}
+
+ul {
+  color: lightgrey;
+}
+
+img {
+  height: 150px;
+}
+
+h1 {
+  color: #51C4D3;
+}
+h3 {
+  color: #51C4D3;
+}
+
+#heading {
+  color: #FF4848;
+}
+
+.new_tab {
+  color: #FC5404;
+}
